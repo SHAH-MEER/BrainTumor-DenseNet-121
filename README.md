@@ -1,6 +1,6 @@
 # Brain Tumor Detection with DenseNet-121
 
-🧠 **AI-Powered Brain Tumor Classification System**
+🧠 **Brain Tumor Classification System**
 
 This Gradio application uses a DenseNet-121 deep learning model to detect and classify brain tumors from MRI scan images. The model can identify three different types of brain conditions with high accuracy.
 
